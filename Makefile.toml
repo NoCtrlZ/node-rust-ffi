@@ -1,0 +1,6 @@
+[tasks.compile]
+description = "Build Rust Binary"
+script = ['''
+#!/usr/bin/env bash
+neon build --release
+''']
