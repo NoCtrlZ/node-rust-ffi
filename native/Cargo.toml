@@ -1,5 +1,5 @@
 [package]
-name = "my-project"
+name = "steg"
 version = "0.1.0"
 authors = ["Hemlocked <phantomofrotten@gmail.com>"]
 license = "MIT"
